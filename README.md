@@ -15,7 +15,7 @@
 
 ## Description 
 *Overview of this project:* 
-* Progress Steps is a little application that isn’t much on its own but it can be incorporated into any project that might have multiple phases to let the user know where they stand in the progress. The project is comprised of a progress bar with four steps. There are two buttons - next and previous which allow you to toggle through the steps. The circles around the numbers and the progress bar changes color to let the user know where they are in the progress.
+* Progress Steps is a little application that isn’t much on its own but it can be incorporated into any project that might have multiple phases to update the user about where they are in the progress. The project is comprised of a progress bar with four steps. There are two buttons - next and previous which allow you to toggle through the steps. The circles around the numbers and the progress bar changes color to let the user know where they are in the progress.
 
 ## Installation
 *Steps required to install project and get the development environment established:*
